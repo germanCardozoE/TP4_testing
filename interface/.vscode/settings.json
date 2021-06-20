@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "leds.h": "c",
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "ledscontrol.h": "c",
+        "interfazcontrol.h": "c"
+    }
+}
